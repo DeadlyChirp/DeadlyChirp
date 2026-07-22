@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/thanh-long-tang">
+<a href="https://longtang-1x1.pages.dev/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeadlyChirp/DeadlyChirp/main/dark_mode.svg">
     <img alt="Long Tang's GitHub profile" src="https://raw.githubusercontent.com/DeadlyChirp/DeadlyChirp/main/light_mode.svg">
