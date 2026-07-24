@@ -132,7 +132,7 @@ text, tspan {white-space: pre;}
 <text x="470" y="30" fill="#24292f">
 <tspan x="470" y="30">long@tang</tspan> -——————————————————————————————————————————————-—-
 <tspan x="470" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Windows 11, WSL2, Ubuntu 24.04</tspan>
-<tspan x="470" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">24 years, 11 months, 17 days</tspan>
+<tspan x="470" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">24 years, 11 months, 18 days</tspan>
 <tspan x="470" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">FPT Software France, Paris</tspan>
 <tspan x="470" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">UI/UX Designer &amp; AI Analyst</tspan>
 <tspan x="470" y="130" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Product Designer / Design Engineer</tspan>
